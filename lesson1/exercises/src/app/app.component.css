@@ -1,0 +1,8 @@
+hr{
+    border-style: dotted;
+    border-width: .2vw;
+}
+.vl{
+    border-left: dashed;
+    border-right: dashed;
+}
